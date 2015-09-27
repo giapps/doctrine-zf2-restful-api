@@ -1,7 +1,8 @@
 # ZF2 Restful API Example
 
-This is an example application showing how to create a RESTful JSON API using PHP and [Zend Framework 2](http://framework.zend.com/). It starts from a clean base rather than the skeleton app as that includes a load of files which are unnecessary for an API (language and html view files). Matches the [ZF2 Album example](http://framework.zend.com/manual/2.2/en/user-guide/overview.html) but with DB. 
+This is an example application showing how to create a RESTful JSON API using PHP and [Zend Framework 2](http://framework.zend.com/).
 It is inspired from [zf2-restful-api] (https://github.com/stevenalexander/zf2-restful-api) of [stevenalexander] (https://github.com/stevenalexander)
+Doctrine & PHPUnit is also enabled
 
 ## Requirements
 
