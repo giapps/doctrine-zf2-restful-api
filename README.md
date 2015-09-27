@@ -1,4 +1,4 @@
-# ZF2 Restful API Example
+# ZF2 Restful API with Doctrine Example
 
 This is an example application showing how to create a RESTful JSON API using PHP and [Zend Framework 2](http://framework.zend.com/).
 It is inspired from [zf2-restful-api] (https://github.com/stevenalexander/zf2-restful-api) of [stevenalexander] (https://github.com/stevenalexander)
